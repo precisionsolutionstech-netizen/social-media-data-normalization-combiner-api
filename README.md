@@ -211,11 +211,24 @@ Unknown or scraped payloads are handled via **generic inference** with lower con
 
 ## Related APIs
 
+- **Calendar Event Normalization API**  
+  https://rapidapi.com/precisionsolutionstech/api/calendar-event-normalization
+
+- **API Error & Status Normalization API**  
+  https://rapidapi.com/precisionsolutionstech/api/api-error-status-normalization
+
 - **Retail Data Normalization & Comparison API**  
   https://rapidapi.com/precisionsolutionstech/api/retail-data-normalization-comparison
-- **JSON Schema Validator API**
-- **JSON Diff Checker API**
-- **JSON Payload Consistency Checker API**
+
+- **Sensitive Data Detection & Redaction API**  
+  https://rapidapi.com/precisionsolutionstech/api/sensitive-data-detection-redaction-api
+
+---
+
+### All APIs by Precision Solutions Tech
+
+https://rapidapi.com/user/precisionsolutionstech
+
 
 ---
 
